@@ -49,7 +49,7 @@ La idea central es conectar de forma cercana: cada post muestra desde dónde fue
 
 3. Configuracion de variables de entorno
 
-Crea el archivo backend/.env con:env
+   Crea el archivo backend/.env con:env
   ```env
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/kinmap
