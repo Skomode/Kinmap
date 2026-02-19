@@ -53,7 +53,7 @@ La idea central es conectar de forma cercana: cada post muestra desde dónde fue
      ```env
       PORT=5000
       MONGODB_URI=mongodb://localhost:27017/kinmap
-      JWT_SECRET=tu_secreto_super_seguro_aqui
+      JWT_SECRET=KEY_WORD
       ```
 4. Iniciar backend
 
